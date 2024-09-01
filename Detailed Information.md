@@ -1,8 +1,5 @@
 # **System Design**
 
-## **Machine Learning System Design**
-- ML system design involves the process of creating and deploying ML models to solve real-world problems.
-
 ### **Decoding the key components of ML systems**
 - At the heart of every ML system lies a series of interconnected components.
 - **Data Preprocessing:** Raw data is cleaned/prepared for analysis, addressing issues such as missing values, outliers, and data normalization.
