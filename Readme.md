@@ -1,8 +1,10 @@
 # **System Design**
 
+## **Machine Learning System Design**
+- ML system design involves the process of creating and deploying ML models to solve real-world problems.
+
 ### **Decoding the key components of ML systems**
 - At the heart of every ML system lies a series of interconnected components.
-- Each plays a pivotal role in transforming raw data into actionable insights.
 - **Data Preprocessing:** Raw data is cleaned/prepared for analysis, addressing issues such as missing values, outliers, and data normalization.
 - **Feature Extraction:** Identifying the most relevant information from the data to feed into the ML model.
 - **Model Selection:** Choosing the right algorithm based on the problem at hand, be it a regression, classification, or clustering task.
@@ -148,7 +150,7 @@
 - Deploying ML models involves making your models available to end-users or systems.
 - Common deployment strategies include leveraging cloud services, containers, and serverless computing.
 - Each approach has its benefits and considerations.
-- Choosing the right strategy depends on the specific needs of your application, including latency, costing, and scalability needs.
+- Choosing the right strategy depends on the specific needs of your application, including latency, cost, and scalability needs.
 
 1. **Cloud Services:** 
 - Cloud platforms like AWS, Google Cloud Platform, and Azure offer managed services for deploying ML models with scalability and security.
@@ -177,7 +179,6 @@
 3. **Continuous Improvement:** 
 - ML models benefit from continuous updates and improvements.
 - Implementing a CI/CD pipeline for your ML models can streamline updates and ensure your models adapt to new data or requirements efficiently.
-
 
 ### ML System Design Communication
 
