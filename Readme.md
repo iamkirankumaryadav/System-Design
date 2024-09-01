@@ -194,7 +194,7 @@
 - For example, comparing a random forest to a team of decision-makers can make the concept more relatable.
 
 ## **Utilizing Visuals to Clarify**
-- Visual aids play a crucial role in communicating complex ML system designs.
+- Visualization plays a crucial role in communicating complex ML system designs.
 - Select visuals that add value and clarity to your explanation.
 
 1. **Diagrams and Flowcharts:**
