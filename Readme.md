@@ -42,7 +42,7 @@
 - The essence of feature scaling and normalization lies in adjusting the scale of your data to enhance model training dynamics.
 - Two primary techniques are widely used:
 
-**1. Standardization:** 
+1. **Standardization:** 
 - Transforms data to have a mean of 0 and a standard deviation of 1.
 - It's crucial for models sensitive to the variance in data, like SVM or k-nearest neighbours.
 
